@@ -37,14 +37,14 @@ global.my = {
 
 global.limit = {
 	free: 20,
-	premium: 999,
-	vip: 9999
+	premium: 99999999999,
+	vip: 9999999999
 }
 
 global.money = {
 	free: 10000,
-	premium: 1000000,
-	vip: 10000000
+	premium: 100000000000,
+	vip: 100000000000
 }
 
 global.mess = {
